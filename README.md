@@ -30,7 +30,6 @@
 ### Built With
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Next.js](https://nextjs.org/)
 
 ### Layout
 - [Figma](https://www.figma.com/file/ZGk488t2x15o7Yv55mZ11F/Move.it-1.0-(Copy)?node-id=160%3A2761)
