@@ -5,6 +5,8 @@ import { Profile } from '../components/Profile';
 
 import Head from 'next/head';
 
+import { ChallengeBox } from '../components/ChallengeBox';
+
 import styles from '../styles/pages/Home.module.css';
 
 export default function Home() {
@@ -24,7 +26,7 @@ export default function Home() {
         </div>
 
         <div>
-
+          <ChallengeBox />
         </div>
       </section>
     </div>
