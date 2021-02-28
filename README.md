@@ -22,6 +22,7 @@
   - [Layout](#layout)
 - [Features](#features)
 - [Code Structure](#code-structure)
+- [Upgrades](#upgrades)
 
 <!-- OVERVIEW -->
 
@@ -37,6 +38,7 @@
 
 ### :mag_right: Layout
 - [Figma](https://www.figma.com/file/ZGk488t2x15o7Yv55mZ11F/Move.it-1.0-(Copy)?node-id=160%3A2761)
+- [Layout 2.0](https://www.figma.com/file/avxCse96lTotCZ1SiD898T/Move.it-2.0-Copy)
 
 ## :zap: Features
 - Countdown
@@ -67,3 +69,13 @@
 - /src/styles -> Folder of the CSS.
 - /src/styles/components -> Specific CSS to each component.
 - /src/styles/pages -> Specific CSS to each page.
+
+## :bulb: Upgrades
+- [ ] Docs
+- [ ] Estilo
+  - [ ] Responsividade
+  - [ ] Mudar cores e/ou criar temas
+- [ ] PWA
+- [ ] Login c/ Github
+- [ ] Hanking
+- [ ] Compartilhar nível no Twitter
