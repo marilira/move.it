@@ -17,12 +17,12 @@
 <!-- TABLE OF CONTENTS -->
 
 ## :pencil: Table of Contents
-- [Overview](#overview)
-  - [Built With](#built-with)
-  - [Layout](#layout)
-- [Features](#features)
-- [Code Structure](#code-structure)
-- [Upgrades](#upgrades)
+- [Overview](#tada-overview)
+  - [Built With](#computer-built-with)
+  - [Layout](#mag_right-layout)
+- [Features](#zap-features)
+- [Code Structure](#file_folder-code-structure)
+- [Upgrades](#bulb-upgrades)
 
 <!-- OVERVIEW -->
 
